@@ -1,6 +1,6 @@
 body { font-family: 'Product Sans'; font-size: calc(13px + (18 - 13) * ((100vw - 768px) / (1600 - 768))); line-height: calc(1.4em + (1.5 - 1.2) * ((100vw - 300px)/(1600 - 300))); }
 h1, h2, h3 { color:#464646; }
-h1 { font-size:calc(5rem + 6vw); line-height: 1; font-weight:700; font-family: 'Product Sans'; margin: 0px; }
+h1 { font-size:calc(3rem + 6vw); line-height: 1; font-weight:700; font-family: 'Product Sans'; margin: 0px; }
 h2 { font-size:calc(2rem + 2vw); line-height: 1; font-weight:700; font-family: 'Product Sans'; text-transform:uppercase; }
 a { color: #000; }
 
@@ -57,7 +57,9 @@ a { color: #000; }
     letter-spacing: 2px;
     padding: 50px 0px;
 }
-
+.center {
+    text-align: center;
+}
 
 
 /*
